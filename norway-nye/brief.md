@@ -80,7 +80,7 @@ Transfer to TOS and fly out.
 - Daily breakfast
 - OJ trip leader throughout
 - Fjellheisen cable car, return
-- Northern Lights chase, small-group, with thermal suits and a warm meal
+- Northern Lights chase, 8-guest minivan, with thermal suits and a warm meal
 - Silent whale safari to the Skjervøy fjords
 - Self-drive dog sledding with bidos lunch, thermal suit and boots
 - New Year's Eve fireworks cruise from the harbour
@@ -95,7 +95,8 @@ Transfer to TOS and fly out.
 - Schengen visa — ~₹10,150 per adult, applied through VFS before flying
 - Travel insurance (mandatory for Schengen, €30,000 medical minimum)
 - Lunches and dinners other than the three listed above, and all drinks
-- Optional add-ons: snowmobile safari at Camp Tamok, Tromsø Ice Domes, aurora dinner cruise
+- Optional add-ons: midnight concert in Tromsø Cathedral (NOK 302), snowmobile safari at Camp
+  Tamok, Tromsø Ice Domes, aurora dinner cruise
 - Tips, personal expenses, GST and gateway charges
 
 ---
@@ -109,7 +110,7 @@ Transfer to TOS and fly out.
       published rate is already NOK 4,066/room/night. Blocking rooms is the priority action.
 - [ ] **Confirm group/agent rates** — the whole sheet is priced at published retail. A 10–15%
       trade rate on hotels and activities is worth ~₹30k per traveller.
-- [ ] **Decide Signature vs Lean** (7N vs 6N) — ₹3.58L vs ₹2.94L land-only. See costing.
+- [ ] **Decide Signature vs Lean** (7N vs 6N) — ₹3.57L vs ₹2.89L land-only. See costing.
 - [ ] **Lock dates and batch size**, then retail price and Cashfree form
 - [ ] **Confirm the OJ trip leader travels** (leader cost is amortised in the sheet, not free)
 - [ ] **Source day images** — no Norway assets in this repo yet
