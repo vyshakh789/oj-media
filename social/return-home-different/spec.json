@@ -1,0 +1,44 @@
+{
+  "ratio": "4:5",
+  "out_dir": "/Users/macmini/Documents/Claude/projects/OJ/social-content/overnight/run_20260906/built/return-home-different",
+  "slides": [
+    {
+      "layout": "hook",
+      "photo": "/Volumes/1TB/_CONTENT/trip-iceland/15_Iceland_landscape-mid-action-sunset-person-jumping-waterfall_Iceland_2024-44.jpg",
+      "place": "ICELAND",
+      "big": "YOU COME BACK\n|DIFFERENT|",
+      "big_size": 96,
+      "kicker": "Not in a poster way.\nIn a |real| way.",
+      "swipe": true,
+      "swipe_cap": "|Swipe| for the report card"
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-iceland/03_Iceland_group-landscape-mid-action-glacier-showcasing-fun_20240927_120530.jpg",
+      "kicker": "YOU TOLERATE",
+      "body": "|Less bullshit|. Excuses, slow plans,\n'thoda aur comfortable option dekh lo' energy.\nIceland does not negotiate."
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-iceland/13_Iceland_group-mid-action-landscape-travelers-fun-pose_HPC_73.jpg",
+      "kicker": "YOU SAY YES",
+      "body": "Faster. To things that scare you a little.\nIce cave at 7am? |Already dressed.|\nSaying yes used to need a committee."
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-iceland/18_Iceland_group-candid-portrait-smiles-fun_Iceland_2024-9.jpg",
+      "kicker": "YOU STOP WAITING",
+      "body": "For the perfect time.\n|It was never coming.|\nTrips teach you that faster than LinkedIn posts."
+    },
+    {
+      "layout": "cta",
+      "photo": "/Volumes/1TB/_CONTENT/trip-iceland/22_Iceland_landscape-mid-action-water-person-adding-scale_Iceland_2024-86.jpg",
+      "place": "8 YEARS OF OJ ALUMNI",
+      "mega": "SAME REPORT\nCARD EVERY\nBATCH",
+      "mega_size": 120,
+      "body": "Different person at the airport gate.\nYour turn when you are ready.\n|Link in bio|",
+      "pill": "|Link in bio|",
+      "aster": "orange"
+    }
+  ]
+}

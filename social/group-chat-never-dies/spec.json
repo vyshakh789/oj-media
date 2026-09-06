@@ -1,0 +1,44 @@
+{
+  "ratio": "4:5",
+  "out_dir": "/Users/macmini/Documents/Claude/projects/OJ/social-content/overnight/run_20260906/built/group-chat-never-dies",
+  "slides": [
+    {
+      "layout": "hook",
+      "photo": "/Volumes/1TB/_CONTENT/trip-egypt/02_EGYPT_group-candid-portrait-laughter-interaction-fun_IMG_3241.HEIC",
+      "place": "THE TRIP ENDS",
+      "big": "THE GROUP CHAT\n|DOESN'T|",
+      "big_size": 92,
+      "kicker": "Muted on day 1. |Lifeline| by day 4.",
+      "swipe": true,
+      "swipe_cap": "|Swipe| for the receipts"
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-egypt/15_EGYPT_group-candid-portrait-laughter-expressions_IMG_2050.HEIC",
+      "kicker": "3 MONTHS LATER",
+      "body": "Somebody posts one photo from the trip.\n|50 messages| in 20 minutes.\nNobody talks about the itinerary."
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-jordan/01_Jordan_group-mid-action-cultural-women-joyfully-jumping_66418F51-E82B-4253-A26C-9A9CFC84FEE5_1_105_c.jpeg",
+      "kicker": "INSIDE JOKES",
+      "body": "That nobody else understands.\nA camel. A wrong turn. One word.\n|You had to be there| is the whole language."
+    },
+    {
+      "layout": "beat",
+      "photo": "/Volumes/1TB/_CONTENT/trip-nagaland/12_NAGALAND_group-mid-action-portrait-laughter-mountain_IMG_9790.heic",
+      "kicker": "REUNION POLLS",
+      "body": "Started before the airport goodbyes.\nManali in December? |Booked.|\nNobody has opened a spreadsheet."
+    },
+    {
+      "layout": "cta",
+      "photo": "/Volumes/1TB/_CONTENT/trip-egypt/19_EGYPT_group-candid-portrait-laughter-positive-vibes_IMG_3233.HEIC",
+      "place": "THIS IS WHAT",
+      "mega": "YOU'RE ACTUALLY\nPAYING FOR",
+      "mega_size": 110,
+      "body": "Not the itinerary.\n|The people.|\nNext group chat forms on the next trip.",
+      "pill": "|Link in bio|",
+      "aster": "orange"
+    }
+  ]
+}
